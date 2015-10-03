@@ -1,5 +1,5 @@
 {
-  "name": "uniqueid",
+  "name": "niknik-uniqueid",
   "description": "Generate a unique sequential ID. Optionally pass a prefix, suffix, or multiplier.",
   "version": "0.1.1",
   "homepage": "https://github.com/jonschlinkert/uniqueid",
