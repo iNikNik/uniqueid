@@ -49,6 +49,6 @@ var id = module.exports = function (options) {
 };
 
 
-id.reset = function() {
-  return count = 0;
+id.reset = function(to) {
+  return count = to || 0;
 };
